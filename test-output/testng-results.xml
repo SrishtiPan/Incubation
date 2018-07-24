@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9271" started-at="2018-07-23T12:05:00Z" finished-at="2018-07-23T12:05:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9271" started-at="2018-07-23T12:05:00Z" finished-at="2018-07-23T12:05:10Z">
+      <class name="oops.ExcelRetrieval">
+        <test-method status="PASS" signature="instantiateDriver()[pri:0, instance:oops.ExcelRetrieval@46daef40]" name="instantiateDriver" duration-ms="9258" started-at="2018-07-23T12:05:00Z" finished-at="2018-07-23T12:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateDriver -->
+      </class> <!-- oops.ExcelRetrieval -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
